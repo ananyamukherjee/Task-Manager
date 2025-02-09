@@ -1,0 +1,12 @@
+<html>
+ <button>NEW TASK</button>
+<button>DELETE</button>
+</html>
+<style
+button{
+background-color:red;
+color:white;
+border:none;
+height:50px;
+}
+</style>
