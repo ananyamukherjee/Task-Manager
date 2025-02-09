@@ -1,5 +1,5 @@
-Create table mark(markid(varchar2),mark(number));
-update table mark=x where markid=y;
+Create table TASK(Title(varchar2), Completed(checked),markid(varchar2),mark(number));
+update table Title=x where markid=y;
 Delete table mark where markid=x;
 
 
