@@ -1,0 +1,5 @@
+Create table mark(markid(varchar2),mark(number));
+update table mark=x where markid=y;
+Delete table mark where markid=x;
+
+
