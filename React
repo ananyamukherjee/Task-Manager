@@ -1,0 +1,4 @@
+const myElement=<TASK name="NEW TASK"/>
+function TASK(){
+return <h1>Task Completed</h1>
+}
