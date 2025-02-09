@@ -1,0 +1,9 @@
+Create table Task(Task id(varchar2),Task Name(varchar));
+Delete Task Taskid;
+
+<html>
+<button>NEW TASK</task>
+</html>
+<style>{
+check:completed;
+}
